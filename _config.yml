@@ -1,7 +1,7 @@
 name: random4
 favicon: null
-layout_spectrum: 0.25935950758866966
-typography_spectrum: 0.2058273267466575
+layout_spectrum: 1
+typography_spectrum: 0.88652
 cta:
   domain: null
   bucket: null
