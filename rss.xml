@@ -4,8 +4,15 @@
         <description><![CDATA[random4]]></description>
         <link>https://thegrid.ai/random4/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 17:39:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 18:04:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/random4/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Long Article]]></title>
+            <description><![CDATA[<article><h1>The Long Article</h1><p>In this article I have a lot of text and use large high quality images.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba977f9a6d0a82514317c8e280dcd76daec2bf8d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/random4/the-long-article/index.html</link>
+            <guid isPermaLink="false">bcb0c311-e98d-434b-8af3-84f5b59f3b06</guid>
+            <pubDate>Sun, 06 Mar 2016 18:03:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Plex can go and fuck itself.]]></title>
             <description><![CDATA[<article><h1>Plex can go and fuck itself.</h1><p>Plex Server on my Ubuntu 14.04 went totally apeshit one day and would not load the web interface. Why?, I did not update the VM, it was silently just hammering along day by day. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8668d030470cceeab5bdb8f2efdbfcf89c05676.png"></article>]]></description>
