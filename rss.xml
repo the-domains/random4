@@ -4,7 +4,7 @@
         <description><![CDATA[random4]]></description>
         <link>https://thegrid.ai/random4/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 18:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 18:17:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/random4/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Long Article]]></title>
@@ -28,11 +28,11 @@
             <pubDate>Sun, 06 Mar 2016 18:16:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75f9c973-fe50-452f-aebd-85f59cddad50.jpg">]]></description>
+            <title><![CDATA[The BSD Rant]]></title>
+            <description><![CDATA[<article><h1>The BSD Rant</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9538fcff89f730f66d633611f6962509c9e407c4.jpg"></article>]]></description>
             <link>https://thegrid.ai/random4/3ab2aa56-6dc4-4014-9368-1f13ff355aea/index.html</link>
             <guid isPermaLink="false">3ab2aa56-6dc4-4014-9368-1f13ff355aea</guid>
-            <pubDate>Sun, 06 Mar 2016 16:56:17 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2016 18:16:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
