@@ -1,9 +1,7 @@
-favicon: null
 name: random4
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2204301
+typography_spectrum: 0.88652
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 1
-  brandStrength: 0
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  lightness: 0
-typography_spectrum: 0.88652
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.2204301
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#7cad51'
+    - '#106383'
+    - '#517e3d'
+    - '#dc4800'
+    - '#702b01'
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0.5
+purpose: []
