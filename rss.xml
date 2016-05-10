@@ -4,8 +4,15 @@
         <description><![CDATA[random4]]></description>
         <link>https://thegrid.ai/random4/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 10:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 10:38:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/random4/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Forbes Is Confused: You Can View Content Using An Adblocker By Promising Not To Use An Adblocker | Techdirt]]></title>
+            <description><![CDATA[<article><h1>Forbes Is Confused: You Can View Content Using An Adblocker By Promising Not To Use An Adblocker | Techdirt</h1><p>Forbes, an organization with a website presumably built on the value of its content, also has made the unfortunate decision recently to try to block off access to anyone using adblocker software, apparently so that it could successfully allow malicious "ads" to infect its readers' machines.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/937dfe12301c9c4e68f3d5cca8d0d100d416b52e.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229172</link>
+            <guid isPermaLink="false">0aa3141c-e77f-4292-8331-24d7818fe0c1</guid>
+            <pubDate>Tue, 10 May 2016 10:37:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A daughter of Silicon Valley shares her 'nerd' story]]></title>
             <description><![CDATA[<article><h1>A daughter of Silicon Valley shares her 'nerd' story</h1><p>Back in 2014, my colleague Crystal Beasley started a thread of women in tech/hackers posting their "nerd stories" in response to some comments out there on the Internet about the lack of women in tech.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dae940a08d73a57223f068da10c7dfb27d22db35.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/random4/3ab2aa56-6dc4-4014-9368-1f13ff355aea/index.html</link>
             <guid isPermaLink="false">3ab2aa56-6dc4-4014-9368-1f13ff355aea</guid>
             <pubDate>Sun, 06 Mar 2016 18:16:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Metro Redux]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4db82ead9c631287d3d645c59cd73bbb79bac9f5.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/random4/28fabe9e-f215-4713-bf5a-a812176418b2/index.html</link>
-            <guid isPermaLink="false">28fabe9e-f215-4713-bf5a-a812176418b2</guid>
-            <pubDate>Sun, 06 Mar 2016 18:16:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
