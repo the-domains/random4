@@ -4,8 +4,15 @@
         <description><![CDATA[random4]]></description>
         <link>https://thegrid.ai/random4/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 10:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 07:14:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/random4/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6400151-d398-419e-8079-fea07ffaf4bb.png">]]></description>
+            <link>https://thegrid.ai/random4/e445b3ce-ea10-48b4-aec3-6ac9e3a1a041/index.html</link>
+            <guid isPermaLink="false">e445b3ce-ea10-48b4-aec3-6ac9e3a1a041</guid>
+            <pubDate>Tue, 19 Jul 2016 07:13:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Battlefield 1 Has Most Liked Trailer Ever on YouTube, Call of Duty: Infinite Warfare Most Disliked]]></title>
             <description><![CDATA[<article><h1>Battlefield 1 Has Most Liked Trailer Ever on YouTube, Call of Duty: Infinite Warfare Most Disliked</h1><p>Battlefield 1 was announced last week with a trailer, and if you're wondering if people like it or not, then we've got an answer for you: it's eclipsed one million likes on YouTube, which makes it the most liked trailer of all time. Call of Duty: Infinite Warfare was announced a week prior, and...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6621b29b3dcc4edd5905fb47d9e11291fba827a5.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/random4/the-long-article/index.html</link>
             <guid isPermaLink="false">bcb0c311-e98d-434b-8af3-84f5b59f3b06</guid>
             <pubDate>Sun, 06 Mar 2016 19:01:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ahoy! Kanye West Now Has His Own Pirate Bay - TorrentFreak]]></title>
-            <description><![CDATA[<article><h1>Ahoy! Kanye West Now Has His Own Pirate Bay - TorrentFreak</h1><p>After threatening The Pirate Bay with a lawsuit, Kanye West was exposed as a pirate himself this week. The controversy made headlines all around the world and The Pirate Bay team even offered a helping hand. Perhaps even better, there's also a dedicated "Kanye Bay" spin-off which should make the larger-than-life rapper feel right at home.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d63eff77f3b7eb110da0535423fb112ac5156d58.jpg"></article>]]></description>
-            <link>https://torrentfreak.com/ahoy-kanye-west-now-has-his-own-pirate-bay-160305/</link>
-            <guid isPermaLink="false">1852e8ca-a261-42b5-a155-1a2de1ee58f5</guid>
-            <pubDate>Sun, 06 Mar 2016 19:01:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
