@@ -4,8 +4,15 @@
         <description><![CDATA[random4]]></description>
         <link>https://thegrid.ai/random4/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 07:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 09:18:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/random4/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Long Article]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba977f9a6d0a82514317c8e280dcd76daec2bf8d.jpg">]]></description>
+            <link>https://thegrid.ai/random4/the-long-article/index.html</link>
+            <guid isPermaLink="false">bcb0c311-e98d-434b-8af3-84f5b59f3b06</guid>
+            <pubDate>Tue, 23 Aug 2016 09:18:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6400151-d398-419e-8079-fea07ffaf4bb.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/random4/46d83330-79e6-47b7-addd-8420636a37ca/index.html</link>
             <guid isPermaLink="false">46d83330-79e6-47b7-addd-8420636a37ca</guid>
             <pubDate>Sun, 06 Mar 2016 19:14:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Long Article]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c92b1b5-4f91-4f39-a9c6-5666f6ed30af.jpg">]]></description>
-            <link>https://thegrid.ai/random4/the-long-article/index.html</link>
-            <guid isPermaLink="false">bcb0c311-e98d-434b-8af3-84f5b59f3b06</guid>
-            <pubDate>Sun, 06 Mar 2016 19:01:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
